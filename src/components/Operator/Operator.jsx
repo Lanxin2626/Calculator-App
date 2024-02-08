@@ -47,6 +47,7 @@ const Operator = (props) => {
             }
           } else {
             console.log("Cannot divide by zero");
+            alert("Cannot divide by zero");
             return result;
           }
         case '=':
