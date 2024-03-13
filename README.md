@@ -12,4 +12,8 @@ Done. Now run:
 
   cd calculator-app
   npm install      
-  npm run dev  
+  npm run dev
+
+  DEMO:  https://xvw4jm-5173.csb.app/
+
+  If demo not work plz let me know
